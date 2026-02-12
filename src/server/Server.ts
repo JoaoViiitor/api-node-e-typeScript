@@ -1,5 +1,8 @@
+import './shader/services/translationsYup';
+
 import express from 'express';
 import { router } from './routes';
+
 
 const server = express();
 

@@ -1,5 +1,5 @@
 {
-  "compilerOptions": {
+    "compilerOptions": {
     "target": "ES2020",
     "module": "CommonJS",
     "moduleResolution": "Node",
@@ -9,5 +9,4 @@
     "allowSyntheticDefaultImports": true,
     "strict": true
   }
-
 }
